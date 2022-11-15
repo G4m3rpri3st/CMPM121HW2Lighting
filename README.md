@@ -1,5 +1,5 @@
-# CMPM121HW1Scene
-HW1 Craft a Scene
+# CMPM121HW2Scene
+HW2 Lighting & Particle System
 
 My scene depicts a knight and a shopkeep trading with each other at the shopkeep's stall in the middle of the street outside of the shopkeeper's house. Within the scene I included 2 characters(shopkeep and knight), a street made of cobbles and dirt, a lamp post and shop stall with a full cart, and a house made out of multiple rooms/parts as background scenery. My inspiration for the scene comes from playing many fantasy RPGs over the years, and I figured it would make a good choice of scene. The main character of the scene is the knight directly in front of the shopkeeper and his stall.
 
